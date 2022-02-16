@@ -1,5 +1,10 @@
+
+"""2.11 Практика по методам и свойствам (property) """
 from string import  ascii_letters
 from string import  ascii_lowercase
+
+
+
 class Registration:
     __login = ''
     __password = ''
